@@ -2,6 +2,7 @@
 
 ## Zephyrus Store Private Addons:
 
+* Fornite Emotes and Dances. [Link](https://youtu.be/6g46rAWFThs)
 * MatchMaking Ranks with rank types (Competitive, Wingman and Danger Zone ranks). [Link](https://youtu.be/h8FebOW5uDY)
 * Skybox and MultiJump (both are two different modules but they are presented in the same video). [Link](https://youtu.be/902VfcYDreM)
 * Dota2 Pet models. [Link](https://youtu.be/FZhVxESz4Es)
