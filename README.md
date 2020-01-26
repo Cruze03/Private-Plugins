@@ -4,6 +4,7 @@
 
 * Fortnite Emotes and Dances. [Link](https://youtu.be/6g46rAWFThs)
 * MatchMaking Ranks with rank types (Competitive, Wingman and Danger Zone ranks). [Link](https://youtu.be/h8FebOW5uDY)
+* Animated Scoreboard Tag(with multi1v1 support). [Link](https://youtu.be/rioouTNWlCQ)
 * Say Sounds. [Link](https://youtu.be/wY78MVP6OG4)
 * Skybox and MultiJump (both are two different modules but they are presented in the same video). [Link](https://youtu.be/902VfcYDreM)
 * Dota2 Pet models. [Link](https://youtu.be/FZhVxESz4Es)
