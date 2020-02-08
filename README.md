@@ -29,3 +29,4 @@
 * Custom Join sound and message plugin with more than one join sound per steam id. [Link](https://youtu.be/-IaaQvCWziQ)
 * Blocking player's dynamic clantags. [Link](https://i.imgur.com/XC2I1Gg.gif)
 * Show body hit part of attacker in hud when player dies. [Link](https://youtu.be/XkaQ5nTgb08)
+* Show all available commands in server. [Link](https://imgur.com/a/cOmQjkC)
