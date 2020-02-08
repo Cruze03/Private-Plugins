@@ -14,6 +14,7 @@
 * Shavit timer with cvars for different styles having different credits. [Link](https://youtu.be/HNScwi9bXJI)
 * Top X credits with cvar to set the "X". [Link](https://i.imgur.com/SeVxRbQ.jpg)
 * Welcome/Leave message and sound. [Link](https://youtu.be/j-3V6mI_vVw)
+* Shell (Outline) Glow. [Link](https://youtu.be/JkCokh1HnxM)
 
 ## Multi1v1 Private Round Addon:
 
