@@ -23,6 +23,7 @@
 
 ## Private Plugins:
 
+* Deathrun. [Link](https://youtu.be/f-C32ZR5OSE)
 * Top Damage Dealer at RoundEnd with cvar whether to display hits, headshots and kills or not. [Link](https://youtu.be/MbrFkKNL3Mo)
 * Force Reconnect New Players (used because auras are only visible when you reconnect once after downloading them).
 * Nominate list plugin(!nomlist) which shows maps that are nominated with name of nominator. Cvar for whether to show it as menu, or show it in chat or both. [Link](https://youtu.be/njbQNTCu8HY)
